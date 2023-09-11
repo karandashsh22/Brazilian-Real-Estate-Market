@@ -5,7 +5,7 @@ An in-depth analysis of the real estate market in Brazil based on various proper
 <br>Done under Prof. Mohammad Soltanieh Ha,  as EDA for Real Estate Market in Brazil.
 Dated 8th Dec 2022.
 Contributors to this project as teams members are listed here:
-1. Hector He (ruhaihe@ucsb.edu)
+1. Hector He (hectorh@bu.edu)
 2. Sam Zhang (yzhang6@bu.edu)
 3. Prateek Naharia (nahariap@bu.edu)
 4. Anmol Srivastava (anmol05@bu.edu)
